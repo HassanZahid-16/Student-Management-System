@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Streamlit + Python OOP)
 
 ## Quick start
@@ -18,3 +19,7 @@
 - `services/manager.py` — CRUD, validation, search
 - `ui/` — Streamlit app
 - `data/students.json` — data file
+=======
+# Student-Management-System
+Student Management System developed using Streamlit
+>>>>>>> c8f6bf66d257783d73e0d67a4b88b538d9970bd1
