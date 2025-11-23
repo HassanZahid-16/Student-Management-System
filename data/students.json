@@ -1,0 +1,37 @@
+[
+    {
+        "id": "345",
+        "name": "Ali Zahid",
+        "age": 22,
+        "grade": "C",
+        "performance": "Average"
+    },
+    {
+        "id": "482332",
+        "name": "Abu Bakar",
+        "age": 18,
+        "grade": "B",
+        "performance": "Good"
+    },
+    {
+        "id": "480146",
+        "name": "Hassan",
+        "age": 21,
+        "grade": "A",
+        "performance": "Excellent"
+    },
+    {
+        "id": "789",
+        "name": "Hammad",
+        "age": 17,
+        "grade": "A",
+        "performance": "Good"
+    },
+    {
+        "id": "656",
+        "name": "Hussain",
+        "age": 20,
+        "grade": "D",
+        "performance": "Poor"
+    }
+]

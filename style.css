@@ -1,0 +1,17 @@
+/* Light Mode */
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+}
+
+/* Dark Mode */
+.dark-mode {
+    --bg-color: #121212;
+    --text-color: #ffffff;
+}
+
+/* Apply globally */
+body {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+}
