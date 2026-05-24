@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 4. Run the Application
 
 ```bash
-streamlit run ui/app.py
+python -m streamlit run ui/app.py
 ```
 
 Open the browser link shown (usually):
