@@ -1,8 +1,8 @@
 import streamlit as st
-from ..services.manager import StudentManager
-from ..models.student import Student
-
 import pandas as pd
+
+from services.manager import StudentManager
+from models.student import Student
 
 
 # -------------------------------------------------------------------
